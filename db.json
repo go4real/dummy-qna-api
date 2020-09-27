@@ -7,5 +7,22 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "board": {
+    "list":
+    [
+      {
+        "uid": "abcdefg",
+        "title": "dummy 1"
+      },
+      {
+        "uid": "abcdefg",
+        "title": "dummy 1",
+        "reply": {
+          "uid": "qerasdf",
+          "title": "reply 1"
+        }
+      }
+    ]
   }
 }
