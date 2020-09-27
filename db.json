@@ -16,14 +16,6 @@
         "title": "dummy 1"
       },
       {
-        "uid": "abcdefg2",
-        "title": "dummy 2",
-        "reply": {
-          "uid": "qerasdf",
-          "title": "reply 1"
-        }
-      },
-      {
         "uid": "abcdefg3",
         "title": "dummy 3"
       },
@@ -31,6 +23,15 @@
         "uid": "abcdefg4",
         "title": "dummy 4"
       },
+      {
+        "uid": "abcdefg2",
+        "title": "dummy 2",
+        "reply": [{
+          "uid": "qerasdf",
+          "title": "reply 1"
+        }]
+      },
+      
       {
         "uid": "abcdefg5",
         "title": "dummy 5"
